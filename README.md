@@ -33,6 +33,16 @@ python --version       # 应返回 Python 3.x.x
 ```
 pip install pyperclip tkinter
 ```
+使用说明
+=
+1. 直接运行``install.bat``即可在Aseprite的脚本文件夹插入所需的文件
+
+2. 绑定快捷键
+
+打开 Aseprite，进入 ``Edit > Keyboard Shortcuts``。
+
+搜索 ``paste_chinese``，点击右侧空白区域，按下组合键（如 Ctrl+Shift+C）。
+
 
 当前限制
 =
