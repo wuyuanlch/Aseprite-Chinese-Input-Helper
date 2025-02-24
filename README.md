@@ -61,6 +61,5 @@ pip install pyperclip tkinter
 
 适用场景
 =
-为像素艺术添加中文标签、对话框或剧情文本。
 
 非英语母语用户提升 Aseprite 工作流效率。
