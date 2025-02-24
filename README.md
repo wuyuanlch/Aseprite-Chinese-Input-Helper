@@ -55,11 +55,6 @@ pip install pyperclip tkinter
 2️.手动打开目标对话框（如标签属性编辑器）
 3️.按 Ctrl+V 粘贴已缓存的中文内容
 
-技术亮点
-=
-混合脚本架构：结合 Lua（Aseprite 插件）、Python（GUI 输入框）、VBS/PowerShell（静默执行），实现跨语言协作。
-
-低资源占用：轻量化设计，后台进程完全隐藏，无性能损耗。
 
 适用场景
 =
