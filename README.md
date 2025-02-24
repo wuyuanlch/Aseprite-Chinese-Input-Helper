@@ -15,19 +15,20 @@ Aseprite 中文输入助手 是一款专为像素艺术设计工具 Aseprite 开
 为了确保 Aseprite 中文输入助手 能够正常运行，请按照以下步骤配置您的环境：
 
 1. Python 环境配置
+
 安装 Python
 
 下载并安装 Python 3.9+。https://www.python.org/downloads/
 
-关键步骤：安装时勾选 “Add Python to PATH”，确保命令行可直接调用 python 和 pythonw。
+关键步骤：安装时勾选 “Add Python to PATH” 和 pip，确保命令行可直接调用 python ， pythonw 和 pip。
 
-2.验证 Python 安装
+2. 验证 Python 安装
 打开命令提示符（CMD）输入以下命令：
 ```
 python --version       # 应返回 Python 3.x.x
 ```
 
-3.安装依赖库
+3. 安装依赖库
 在 CMD 中执行：
 ```
 pip install pyperclip tkinter
