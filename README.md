@@ -39,7 +39,7 @@ pip install pyperclip tkinter
 
 2. 绑定快捷键
 
-打开 Aseprite，进入 ``Edit > Keyboard Shortcuts``。
+打开 Aseprite，进入 ``编辑 > 键盘快捷键`` （``Edit > Keyboard Shortcuts``）。
 
 搜索 ``paste_chinese``，点击右侧空白区域，按下组合键（如 Ctrl+Shift+C）。
 
